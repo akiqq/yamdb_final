@@ -1,7 +1,7 @@
 from django.urls import include, path
 from rest_framework.routers import DefaultRouter
 
-from .views import get_token, UserViewSet, SignUpView
+from .views import  SignUpView, UserViewSet, get_token
 
 router = DefaultRouter()
 router.register('users', UserViewSet, basename='users')

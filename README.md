@@ -1,1 +1,2 @@
-yamdb_final (https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+yamdb_final
+![yamdb_workflow](https://github.com/borrrv/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
